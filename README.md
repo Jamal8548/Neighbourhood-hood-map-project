@@ -1,4 +1,4 @@
-# Project # 05: Neighborhood Map Project (React)
+# Project: Neighborhood Map Project (React)
 
 
 
